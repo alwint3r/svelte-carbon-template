@@ -1,3 +1,5 @@
+<!-- see https://github.com/IBM/carbon-components-svelte/blob/master/examples/rollup-->
+
 <script>
   import {
     Header,
