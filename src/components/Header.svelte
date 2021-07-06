@@ -24,7 +24,7 @@
   }
 </script>
 
-<Header company="DycodeX" platformName="PowtraX LoRaWAN" href="/">
+<Header company="IBM" platformName="Carbon Components Svelte" href="/">
   <div slot="skip-to-content">
     <SkipToContent />
   </div>
